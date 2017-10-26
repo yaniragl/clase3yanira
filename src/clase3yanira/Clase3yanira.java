@@ -4,11 +4,13 @@
  * and open the template in the editor.
  */
 package clase3yanira;
-
-/**
- *
+/******************************************************************************
+ *Yanira Galeas Rojas
  * @author ceduc
- */
+ * Fecha: octubre 26 de 2017
+ * Responsabilidad: Clase Principal
+ *****************************************************************************/
+
 public class Clase3yanira {
 
     /**
